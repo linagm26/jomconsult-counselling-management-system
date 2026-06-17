@@ -44,20 +44,20 @@ JomConsult is a web-based counselling management system developed as a universit
 ## Screenshots
 
 ### Login Page
-![Login Page](jomConsult%20images/login_page.PNG)
+![Login Page](screenshots/login_page.PNG)
 
 ### Student Dashboard
-![Student Dashboard](jomConsult%20images/student_landing_page.PNG)
+![Student Dashboard](screenshots/student_landing_page.PNG)
 
 ### Student Appointment Booking
-![Booking](jomConsult%20images/student_book.PNG)
+![Booking](screenshots/student_book.PNG)
 
 ### Counsellor Dashboard
-![Counsellor Dashboard](jomConsult%20images/counselor_landing_page_2.PNG)
+![Counsellor Dashboard](screenshots/counselor_landing_page_2.PNG)
 
 ### Admin Dashboard
-![Admin Dashboard](jomConsult%20images/admin_dashboard_1.PNG)
-![Admin Dashboard](jomConsult%20images/admin_dashboard_2.PNG)
+![Admin Dashboard](screenshots/admin_dashboard_1.PNG)
+![Admin Dashboard](screenshots/admin_dashboard_2.PNG)
 
 ## Development Approach
 
