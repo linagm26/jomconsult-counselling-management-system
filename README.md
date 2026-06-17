@@ -1,3 +1,7 @@
+## Preview
+
+![Login Page](screenshots/landing_page_1.PNG)
+
 # JomConsult Counselling Booking System
 
 JomConsult is a web-based counselling management system developed as a university team project. The system was designed to streamline counselling appointment scheduling and communication between students, counsellors, and administrators.
